@@ -49,11 +49,11 @@
 _HUD Options_
 - Shift Effects in Inventory - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Show Achievements - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Show HUD in Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu](https://sk1er.club/modcore)
+- Show HUD in Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu)](https://sk1er.club/modcore)
 - Show Crosshair in Third Person - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Show Menu Blur - [tterrag](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
 - Show HUD in F3 - Irrelevant 
-- Disable Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu](https://sk1er.club/modcore)
+- Disable Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu)](https://sk1er.club/modcore)
 - Use Minecraft GUI Scale - Irrelevant
 
 _Cosmetic Options_
@@ -77,5 +77,5 @@ _General_
 
 _Entity Options_
 - Shadow - [sp614x OptiFine(https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar)]
-- Entities - None
-- Tile Entities - None
+- Entities - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Tile Entities - [Sk1er Patcher](https://sk1er.club/mods/patcher)
