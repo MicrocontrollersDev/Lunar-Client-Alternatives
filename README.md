@@ -1,4 +1,4 @@
-## List of Lunar Client Features - Alternatives (Very early WIP):
+## List of Lunar Client Features - Alternatives (WIP, near completed):
 
 # Mods
 - 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er Discord, currently missing tablist and item switch)
@@ -21,9 +21,9 @@
 - Motion Blur - [Various Shaders (Must join Sk1er Discord for link to work)](https://canary.discordapp.com/channels/411619823445999637/411620521382510592/702326988228263936) / [Sk1er Motionblur](https://sk1er.club/mods/motionblurmod)
 - Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
-- UHC Overlay - 
-- Particle Multiplier - [Dewgs](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
-- Cooldowns
+- UHC Overlay - None (Texturepacks work instead)
+- Particle Multiplier - [Dewgs Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
+- Cooldowns - [Canalex](https://www.youtube.com/watch?v=if1t-gO2yfc)
 - WorldEdit CUI - [Mumfrey WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/2352911)
 - Clock - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Stopwatch - [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073)
@@ -40,7 +40,42 @@
 - Screenshot Uploader - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Auto Text Hot Key - [MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
-- Net Graph - 
+- Net Graph - None
 - Mumble Link - [Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
 - Boss Bar - [Sk1er Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
-- Team View
+- Team View - None
+
+# Settings
+_HUD Options_
+- Shift Effects in Inventory - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Show Achievements - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Show HUD in Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu](https://sk1er.club/modcore)
+- Show Crosshair in Third Person - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Show Menu Blur - [tterrag](https://www.curseforge.com/minecraft/mc-mods/blur/files/2665186)
+- Show HUD in F3 - Irrelevant 
+- Disable Friend Menu - Irrelevant ([Sk1er ModCore for Friends Menu](https://sk1er.club/modcore)
+- Use Minecraft GUI Scale - Irrelevant
+
+_Cosmetic Options_
+- Cosmetics - ([Sk1er ModCore (Capes Violate EULA and are therefore not included)](https://sk1er.club/modcore)
+
+_Misc Options_
+- Borderless Fullscreen - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Disable Weather - 
+- Scroll to Zoom - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+
+_Textire Pack Options_
+- Transparent Background - [Aycy Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- Red String - Textue Pack
+
+# Performance
+_General_
+- Hide Enderportals - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Full Bright - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Show Enchantment Glint - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Lazy Chunk Loading - None
+
+_Entity Options_
+- Shadow - [sp614x OptiFine(https://optifine.net/adloadx?f=preview_OptiFine_1.8.9_HD_U_L6_pre1.jar)]
+- Entities - None
+- Tile Entities - None
