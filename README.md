@@ -1,7 +1,7 @@
 ## List of Lunar Client Features - Alternatives (WIP, near completed):
 
 # Mods
-- 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er Discord, currently missing tablist and item switch)
+- 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er Discord, currently missing item switch)
 - FPS - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - CPS - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [Senoe](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html)
 - Skyblock Addons - [Biscuit](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
