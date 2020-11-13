@@ -34,7 +34,7 @@
 - Server Address - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Saturation - [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Item Physics - [CreativeMD ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
-- Item Tracker - 
+- Item Tracker - None
 - Shiny Pots - [RoccoDev](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
 - Block Outline - [Aycy BlockOverlay](https://www.youtube.com/watch?v=_ELFA5jtNQM)
 - Screenshot Uploader - [Sk1er Patcher](https://sk1er.club/mods/patcher)
