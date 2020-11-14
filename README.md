@@ -1,4 +1,4 @@
-## List of Lunar Client Features - Alternatives (WIP, near completed):
+## List of Lunar Client Features - Alternatives:
 
 # Mods
 - 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er's Discord)
