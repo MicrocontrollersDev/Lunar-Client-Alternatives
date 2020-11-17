@@ -89,3 +89,4 @@ _Entity Options_
 - Discord Rich Presence - [connorlinfoot DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
 - In Game Account Switcher - [The_Fireplace InGameAccountSwitcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
 - In Game Server Switcher - [Canalex InGameServerSwitcher](https://www.youtube.com/watch?v=04EangMQd7I) / [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Save Controls Between Versions - [leduyquang753 Controls Saved](https://hypixel.net/threads/forge-1-8-9-controls-saved-%E2%80%93-save-controls-as-presets.2010689/)
