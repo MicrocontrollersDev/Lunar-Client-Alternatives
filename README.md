@@ -39,7 +39,7 @@
 - Block Outline - [Aycy BlockOverlay](https://www.youtube.com/watch?v=_ELFA5jtNQM)
 - Screenshot Uploader - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
-- Auto Text Hot Key - [MattsOnMC MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
+- Auto Text Hot Key (!!! Bannable on Hypixel !!!) - [MattsOnMC MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - Net Graph - None
 - Mumble Link - [snipingcoward Mumble Link](https://www.curseforge.com/minecraft/mc-mods/mumblelink/files/2327154)
 - Boss Bar - [Sk1er Bossbar Customizer](https://sk1er.club/mods/bossbar_customizer)
