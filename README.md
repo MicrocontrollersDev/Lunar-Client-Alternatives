@@ -69,7 +69,7 @@ _Misc Options_
 
 _Texture Pack Options_
 - Transparent Background - [Aycy Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
-- Red String - Textue Pack
+- Red String - Texture Pack
 
 # Performance
 _General_
