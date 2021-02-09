@@ -13,7 +13,7 @@
 - Crosshair - [Sparkless Custom Crosshair](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod/files/2304056)
 - Potion Effects - [Powns PotionEffectHud](http://www.mediafire.com/file/pas0pju90s98r6o/%255B1.8.9%255D_Powns%2527_PotionEffect_HUD_-_1.0.jar/file) / [Bsprks PotionStatusHud](https://hypixel.net/threads/bspkrs-mods-for-1-8-9-forge.1207968/) / [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - DirectionHUD - [bspkr's DirectionHud (doesn't require bspkrs core)](https://github.com/ReflxctionDev/bspkrsCore/releases/tag/1.24) / [Canalex Compass](https://www.youtube.com/watch?v=Anwxqk2EAlE)
-- Waypoints - [Aycy Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
+- Waypoints - [aycy Waypoints](https://www.youtube.com/watch?v=5jq5tXqwDTM)
 - Scoreboard - [Canelex & Powns Sidebar Mod Revamp](https://www.youtube.com/watch?v=cn9VvT43yRs)
 - PotionCounter - [Senoe PotionCounter](https://www.youtube.com/watch?v=7iYeYK2CGDo)
 - Ping - [Senoe's Ping Display](https://www.youtube.com/watch?v=NAsefZXZbHQ) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -36,7 +36,7 @@
 - Item Physics - [CreativeMD ItemPhysic Lite](https://www.curseforge.com/minecraft/mc-mods/itemphysic-lite/files/2439695)
 - Item Tracker - None
 - Shiny Pots - [RoccoDev ShinyPots](https://github.com/RoccoDev/ShinyPots-1.8/releases/tag/1.5)
-- Block Outline - [Aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
+- Block Outline - [aycy BlockOverlay](https://hypixel.net/threads/forge-1-8-9-block-overlay-v4-0-3.1417995/)
 - Screenshot Uploader - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - FOV Mod - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Auto Text Hot Key (!!! Bannable on Hypixel !!!) - [MattsOnMC MacroKey Keybinding](https://www.curseforge.com/minecraft/mc-mods/macrokey-keybinding/files/2659839) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
@@ -68,7 +68,7 @@ _Misc Options_
 - Scroll to Zoom - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 _Texture Pack Options_
-- Transparent Background - [Aycy Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
+- Transparent Background - [aycy Resource Pack Manager](https://www.youtube.com/watch?v=OQZFWrrEcYM)
 - Red String - Texture Pack
 
 # Performance
