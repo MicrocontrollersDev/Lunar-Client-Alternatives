@@ -1,7 +1,7 @@
 ## List of Lunar Client Features - Alternatives:
 
 # Mods
-- 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er's Discord) / [aycy On Hit Particles (for sharp)](https://youtu.be/0PPR_t-qyfw)
+- 1.7 Visuals - Sk1er Old Animations ([Beta](https://sk1er.club/beta) - Only currently available in Sk1er's Discord) / [aycy Damage Tint](https://hypixel.net/threads/forge-1-8-9-damage-tint-v2-0.2008597/)
 - FPS - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [Batty's Coords PLUS](https://www.curseforge.com/minecraft/mc-mods/batty-ui/files/2272073) / [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
 - CPS - [Sk1er Keystrokes](https://sk1er.club/mods/keystrokesmod) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/) / [Senoe CPS](https://ofpyt.weebly.com/189-chroma-cpsmod-20-release.html)
 - Skyblock Addons - [Biscuit SBA](https://biscuit.codes/mods/skyblockaddons/downloadversion/?v=latest)
@@ -22,7 +22,7 @@
 - Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - UHC Overlay - None (Texturepacks work instead)
-- Particle Multiplier - [Dewgs Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s)
+- Particle Multiplier - [Dewgs Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) & [aycy On Hit Particles (for sharp/crit)](https://youtu.be/0PPR_t-qyfw)
 - Cooldowns - [Canalex Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 - WorldEdit CUI - [Mumfrey WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/2352911)
 - Clock - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
