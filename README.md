@@ -57,7 +57,7 @@ _HUD Options_
 - Use Minecraft GUI Scale - Irrelevant
 
 _Cosmetic Options_
-- Cosmetics - ([Sk1er ModCore (Capes Violate EULA and are therefore not included)](https://sk1er.club/modcore)
+- Cosmetics - [Sk1er ModCore (Capes Violate EULA and are therefore not included)](https://sk1er.club/modcore)
 - Show Nametag Icon - Irrelevant
 - Third Person Nametag - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Show Tab Icon - [Sk1er ModCore](https://sk1er.club/modcore)
