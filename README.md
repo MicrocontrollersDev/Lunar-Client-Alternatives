@@ -84,7 +84,7 @@ _Entity Options_
 - Tile Entities - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 
 # Other
-- Bug Fixes - [Sk1er Patcher](https://sk1er.club/mods/patcher)
+- Vanilla Bug Fixes - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Custom Main Menu - [Lumien231 Custom Main Menu](https://www.curseforge.com/minecraft/mc-mods/custom-main-menu/files/2280558) & [Lumien231 ResourceLoader](https://www.curseforge.com/minecraft/mc-mods/resource-loader/files/2271089)
 - Discord Rich Presence - [connorlinfoot DiscordRP](https://hypixel.net/threads/forge-1-8-9-discordrp-rich-presence-for-minecraft-hypixel.1573606/)
 - In Game Account Switcher - [The_Fireplace InGameAccountSwitcher](https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher/files/2363885)
