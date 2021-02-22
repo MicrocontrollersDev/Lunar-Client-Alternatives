@@ -22,7 +22,7 @@
 - Chat - [Sk1er Patcher](https://sk1er.club/mods/patcher)
 - Scrollable Tooltips - [Sk1er Scrollable Tooltips](https://www.sk1er.club/mods/text_overflow_scroll)
 - UHC Overlay - None (Texturepacks work instead)
-- Particle Multiplier - [Dewgs Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) & [aycy On Hit Particles (for sharp/crit)](https://youtu.be/0PPR_t-qyfw)
+- Particle Multiplier - [Dewgs Particle Mod](https://www.youtube.com/watch?v=Um67Ca7gfn4&t=1s) & [aycy On Hit Particles (for sharp/crit)](https://youtu.be/0PPR_t-qyfw) / [Javlin Sharpness Particles](https://www.youtube.com/watch?v=UPqOL3WWhaw)
 - Cooldowns - [Canalex Cooldowns](https://www.youtube.com/watch?v=if1t-gO2yfc)
 - WorldEdit CUI - [Mumfrey WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui/files/2352911)
 - Clock - [Sk1er ChromaHud](https://sk1er.club/mods/ChromaHUD) / [RoccoDev 5Zig Reborn](https://5zigreborn.eu/)
